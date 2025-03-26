@@ -1,6 +1,6 @@
 # Anushya
-"Hello folks"
-<p align="left">Hello World!!</p>
+
+<p align="left">Hello folks!!</p>
 
 ###
 
@@ -27,6 +27,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
 </div>
+
+###
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<h3 align="left">Hello Folks!!<br>Welcome to Tech Girl community of passionate data analysts transforming raw data into actionable insights! 🚀</h3>
 
 ###
 
