@@ -73,26 +73,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anushyaalex/anushyaalex/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-<p align="left">Hello World!!</p>
 
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<h3 align="left">Hello Folks!!<br>Welcome to Tech Girl community of passionate data analysts transforming raw data into actionable insights! 🚀</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushyaalex/anushyaalex/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushyaalex/anushyaalex/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anushyaalex/anushyaalex/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
